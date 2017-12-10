@@ -2,7 +2,7 @@ TITLE Combinatorics     (combinatorics.asm)
 
 ; Author:Trevor Rollins               
 ; Date:12/3/2017
-; Description:This program gives the user pratice with combinnatorics. It randomly
+; Description:This program gives the user pratice with combinatorics. It randomly
 ; generates a problem and then evaluates the user's answer.
 
 INCLUDE Irvine32.inc
